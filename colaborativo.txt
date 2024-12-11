@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este é um arquivo 
+=======
+Este é um arquivo marcado a mão
+>>>>>>> feature_a
